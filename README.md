@@ -38,7 +38,6 @@ The project uses the ESP32's internal pull-up resistors, so all sensors and butt
 4. Select your ESP32 board and hit **Upload**.
 
 ## 🎮 HID Configuration
-To ensure maximum compatibility, the device identifies as:
 - **Name:** E2V1 Explorer Pro
 - **Manufacturer:** Civilian
 - **Axes:** X (Centered), Y (Speed-controlled)
