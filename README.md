@@ -14,6 +14,21 @@ An ESP32-based HID controller that converts pedal strokes from a cross-trainer (
 * **Buttons:** Two momentary tactile switches (Pins 12 & 13).
 * **Pull-ups:** Internal pull-ups are used, so buttons/sensors should pull to GND.
 
+## 🔌 Wiring Diagram
+
+The project uses the ESP32's internal pull-up resistors, so all sensors and buttons are connected between the **GPIO pin** and **GND**.
+
+| Component | ESP32 Pin (GPIO) | Connection |
+| :--- | :--- | :--- |
+| **Magnetic Reed Sensor** | GPIO 14 | Pin 14 <---> GND |
+| **Left Button** | GPIO 12 | Pin 12 <---> GND |
+| **Right Button** | GPIO 13 | Pin 13 <---> GND |
+
+### Important Notes:
+* **Sensor Placement:** Mount the magnet on the rotating part of the cross-trainer and the reed switch on the frame so they pass within 5-10mm of each other.
+* **Debounce:** The software includes a 150ms lockout to prevent double-triggering from a single pedal stroke.
+* **Power:** You can power the ESP32 via the micro-USB/USB-C port or a regulated 5V source to the VIN pin.
+
 ## 💻 Software Installation
 1. Install [Arduino IDE](https://www.arduino.cc/en/software).
 2. Install the following libraries:
