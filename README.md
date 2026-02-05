@@ -6,7 +6,7 @@ An ESP32-based HID controller that converts pedal strokes from a cross-trainer (
 
 The E2V1 Explorer Pro was born from a desire to bridge the gap between physical exercise and the digital frontier. 
 
-The original inspiration for this project came from the **Earth2.io E2V1 metaverse**. I wanted to find a way to make traversing that vast, digital world more immersive and engaging. By using your own muscle power to move your avatar, the immersion level rises significantly—turning a standard cardio workout into an adventurous journey through the metaverse.
+The original inspiration for this project came from the **Earth2.io E2V1 metaverse**. I wanted to find a way to make traversing that vast, digital world more immersive and engaging. By using your own muscle power to move your avatar, the immersion level rises significantly turning a standard cardio workout into an adventurous journey through the metaverse.
 
 ## 🚀 Features
 * **Adaptive Speed Mapping:** Converts pedal cadence into smooth Y-axis movement.
