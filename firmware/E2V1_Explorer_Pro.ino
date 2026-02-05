@@ -1,6 +1,6 @@
 /*
  * E2V1 Explorer Pro - Firmware v1.1
- * Author: YourName/Civilian
+ * Author: Civilian
  * License: MIT
  */
 
