@@ -48,5 +48,6 @@ The project uses the ESP32's internal pull-up resistors, so all sensors and butt
 - **Manufacturer:** Civilian
 - **Axes:** X (Centered), Y (Speed-controlled)
 - **Buttons:** 5 available (1, 2, and 4 in use)
+- **Using** a program like JoyToKey, button 4 can be mapped to the spacebar, which performs a jump in the Earth2.io E2V1 metaverse application.
 
 [![watch demo](https://img.youtube.com/vi/343EgGPdnpc/0.jpg)](https://www.youtube.com/watch?v=343EgGPdnpc)
