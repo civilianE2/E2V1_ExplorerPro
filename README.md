@@ -1,4 +1,3 @@
-# E2V1_ExplorerPro
 # E2V1 Explorer Pro - Bluetooth Cross-Trainer Controller
 
 An ESP32-based HID controller that converts pedal strokes from a cross-trainer (elliptical) into joystick inputs. Designed for immersive gaming and fitness tracking via Bluetooth LE.
