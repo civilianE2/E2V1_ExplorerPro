@@ -43,3 +43,5 @@ To ensure maximum compatibility, the device identifies as:
 - **Manufacturer:** Civilian
 - **Axes:** X (Centered), Y (Speed-controlled)
 - **Buttons:** 5 available (1, 2, and 4 in use)
+
+[![watch demo](https://img.youtube.com/vi/343EgGPdnpc/0.jpg)](https://www.youtube.com/watch?v=343EgGPdnpc)
