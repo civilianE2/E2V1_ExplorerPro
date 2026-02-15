@@ -56,7 +56,7 @@ The original inspiration came from the **Earth2.io** metaverse. Traversing vast 
     * **Button 4:** Shortcut (Both buttons pressed simultaneously)
     * **Button 5:** **Sprint/Shift** (Long press both buttons for 800ms)
 
-> **Pro Tip:** In applications like **Earth2.io**, map **Button 5** to the `Shift` key and **Button 4** to the `Spacebar` (Jump) for the ultimate hands-free exploration experience.
+> **Pro Tip:** In applications like **Earth2.io E2V1**, map **Button 5** to the `Shift` key and **Button 4** to the `Spacebar` (Jump) for the ultimate hands-free exploration experience.
 
 ---
 *Developed for the Earth2 Community by Civilian.*
